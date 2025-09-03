@@ -1,0 +1,9 @@
+[
+  {"id":1, "name":"Erkak Ko'ylak", "price":20000, "img":"https://picsum.photos/200/150?random=11", "category":"erkak"},
+  {"id":2, "name":"Ayol Bluzka", "price":18000, "img":"https://picsum.photos/200/150?random=12", "category":"ayol"},
+  {"id":3, "name":"Bola Futbolka", "price":12000, "img":"https://picsum.photos/200/150?random=13", "category":"bola"},
+  {"id":4, "name":"Erkak Shapka", "price":8000, "img":"https://picsum.photos/200/150?random=14", "category":"erkak"},
+  {"id":5, "name":"Ayol Shim", "price":22000, "img":"https://picsum.photos/200/150?random=15", "category":"ayol"},
+  {"id":6, "name":"Bola Paypoq", "price":5000, "img":"https://picsum.photos/200/150?random=16", "category":"bola"}
+]
+
